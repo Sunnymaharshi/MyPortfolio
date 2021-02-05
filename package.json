@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "this is my portfolio, developed using reactjs",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunnymaharshi/MyPortfolio.git"
+  },
+  "author": "Maharshi Reddy Tangasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunnymaharshi/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/Sunnymaharshi/MyPortfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
